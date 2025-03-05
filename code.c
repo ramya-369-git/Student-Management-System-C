@@ -49,7 +49,7 @@ void searchStudent(){
         printf("Error opening File!\n");
         return;
     }
-    while(fread(&s,sizeof(s),1,file)){
+    while(fread(&s,sizeof(s),1,file)==1){
         if(searchID==s.id){
             printf("ID:%d\nName:%s\nAge:%d\nMarks:%f",s.id,s.name,s.age,s.marks);
             found=1;
