@@ -73,14 +73,21 @@ Sample Output.
 Enter your choice: 2
 
 === Student Records ===
-ID: 111.
+
+ID: 111
+
 Name: Genny
+
 Age: 25
+
 Marks: 567.80
 
 ID: 222
+
 Name: Jhon
+
 Age: 22
+
 Marks: 678.90
 
 License.
