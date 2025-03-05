@@ -69,16 +69,19 @@ Sample Output.
 4. Update Students
 5. Delete Students
 6. Exit
+
 Enter your choice: 2
+
 === Student Records ===
 ID: 111.
 Name: Genny
 Age: 25
 Marks: 567.80
+
 ID: 222
 Name: Jhon
 Age: 22
 Marks: 678.90
 
 License.
-This program is free to use and modify. For personal use only.
+1. This program is free to use and modify. For personal use only.
