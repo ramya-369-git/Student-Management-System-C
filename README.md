@@ -1,13 +1,13 @@
 Student Management System.
-1.A simple C program for managing student records.
-2.This system allows users to perform operations such as adding, displaying, searching, updating, and deleting student records stored in a binary file.
+1. A simple C program for managing student records.
+2. This system allows users to perform operations such as adding, displaying, searching, updating, and deleting student records stored in a binary file.
 
 Features.
-1.Add Student: Add a new student's record with details like ID, name, age, and marks.
-2.Display Students: Display all student records stored in the system.
-3.Search Student: Search for a student by their ID and view their details.
-4.Update Student: Update the details of an existing student using their ID.
-5.Delete Student: Delete a student's record based on their ID.
+1. Add Student: Add a new student's record with details like ID, name, age, and marks.
+2. Display Students: Display all student records stored in the system.
+3. Search Student: Search for a student by their ID and view their details.
+4. Update Student: Update the details of an existing student using their ID.
+5. Delete Student: Delete a student's record based on their ID.
 
 Requirements.
 1.A C Compiler (e.g., GCC) or an IDE (e.g., Visual Studio, Code::Blocks, Dev C++)
